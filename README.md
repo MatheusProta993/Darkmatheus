@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Just a guy trying to improve his programming and cybersecurity skills.</h4>
+<h4 align="left">Just a guy trying to improve his programming, cybersecurity and gaming dev skills.</h4>
 
 ###
 
