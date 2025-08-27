@@ -1,8 +1,5 @@
 <p align="left">Olá, meu nome é Matheus. Atualmente, tenho conhecimentos intermediários em Java, HTML e CSS, e sigo aprimorando minhas habilidades em JavaScript e Node.js</p>
 
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
